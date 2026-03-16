@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512"><circle cx="256" cy="256" r="256" fill="#1a1a2e"></circle><g fill="#7B5EA7">
+        <!-- Main Pad -->
+        <path d="M256 416c-48.6 0-104-32-104-104 0-40 40-72 104-72s104 32 104 72c0 72-55.4 104-104 104z"></path>
+        
+        <!-- Toe Pads -->
+        <circle cx="160" cy="208" r="48"></circle>
+        <circle cx="256" cy="144" r="56"></circle>
+        <circle cx="352" cy="208" r="48"></circle>
+        <circle cx="120" cy="304" r="32"></circle>
+        <circle cx="392" cy="304" r="32"></circle>
+    </g></svg>
