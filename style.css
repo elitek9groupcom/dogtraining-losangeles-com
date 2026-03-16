@@ -336,7 +336,7 @@ ul {
   display: block;
   width: 26px;
   height: 2.5px;
-  background: var(--white);
+  background: var(--purple);
   border-radius: 2px;
   transition: all 0.3s ease;
 }
